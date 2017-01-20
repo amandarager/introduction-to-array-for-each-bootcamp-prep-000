@@ -9,6 +9,5 @@ function changeCompletely(element, index, array) {
 var dessert = ["pie", "cake", "cookies"]
  
 doToElementsInArray(dessert, changeCompletely)
- 
-// log out animals -- pretty cool, right?
+
 console.log(dessert)
